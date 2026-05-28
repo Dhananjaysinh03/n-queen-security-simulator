@@ -97,7 +97,7 @@ No frameworks. No build tools. No dependencies.
 
 ## 🏫 College Project Info
 
-- **Subject:** Data Structures & Algorithms (or as applicable)
+- **Subject:** Analysis and Designing of Algorithm (or as applicable)
 - **Topic:** Backtracking Algorithms
 - **Language:** JavaScript (Vanilla)
 
